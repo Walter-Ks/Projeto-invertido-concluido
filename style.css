@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    top: 0;
+    padding: 0;
+}
+
+/* font-family: 'Cairo', sans-serif;
+font-family: 'EB Garamond', serif; */
+
+
+body{
+    font-family: 'Cairo', sans-serif;
+    background: black;
+    
+}
+
+#btEntrar{
+   text-align: center;
+   margin-top: 300px;
+   animation-delay: 0.5s;
+
+}
+
+#entrar{
+   display:inline;
+   width: 200px;
+   height: 40px;
+   
+   
+}
+
+#container{
+    width: 50%;
+    background-color: rgb(201, 201, 201);
+    margin: auto;
+    margin-top: 50px;
+    padding: 2%;
+    display: none;
+    border-radius: 10px;
+    box-shadow: 4px 5px 10px rgb(0, 0, 0);
+}
+
+.infoBox{
+    display: none;
+}
+
+
+
+#title{
+    text-decoration: underline;
+    
+}
+
+h3{
+    font-size: 25px;
+}
+
+.inp{
+    width: 40%;
+    height: 25px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+
+img{
+    width: 100px;
+    border-radius: 5px;
+}
+
+
+img:focus{
+    box-shadow: 1px 1px 9px red;
+}
+
+
+
+.chapa{
+    display: none;
+}
+
+.chapa:checked{
+    display: none;
+}
+
+button{
+    width: 100px;
+    height: 25px;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+    top: 0;
+    transition: all .2s;
+}
+
+button:hover{
+    background-color: red;
+    transform: scale(1.1,1.1);
+}
+
+
+#esconder{
+    width: 95%;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 1140px){
+    #container{
+        width: 90%;
+        margin-top: 20px;
+    }
+
+    .inp{
+        width: 50%;
+        }
+
+    img{
+        height: 60px;
+        width: 80px;
+    }
+    
+}
