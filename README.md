@@ -15,4 +15,4 @@ ESTATOR é a parte de um motor ou gerador elétrico que se mantém fixo à carca
 #### Estator com invertido fora... ![alt text](https://github.com/Walter-Ks/Projeto-invertido-cloncluido/blob/main/img/3.jpeg "estator")
 
 
-### Confira o projeto no link https://walter-ks.github.io/Projeto-invertido-cloncluido/
+### Confira o projeto no link https://walter-ks.github.io/Projeto-invertido-concluido/
