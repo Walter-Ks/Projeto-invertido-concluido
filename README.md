@@ -12,7 +12,7 @@ O rotor é formado por um eixo que suporta um conjunto de bobinas enroladas sobr
 
 ESTATOR é a parte de um motor ou gerador elétrico que se mantém fixo à carcaça e tem por função conduzir o fluxo magnético, nos motores para rotacionar e nos geradores para transformar a energia cinética do induzido. Nas máquinas assíncronas e nas máquinas síncronas pequenas é nele que, assim como nas bobinas, é formado o campo magnético capaz de induzir no rotor uma corrente. É formado basicamente por ferro tratado termicamente e dotado de ranhuras (também chamados de canais) no seu interior onde são alojadas as bobinas, e na sua face externa observa-se que possui aletas para melhor dissipação do calor.
 
-####Estator com invertido fora... ![alt text](https://github.com/Walter-Ks/Projeto-invertido-cloncluido/blob/main/img/3.jpeg "estator")
+#####Estator com invertido fora... ![alt text](https://github.com/Walter-Ks/Projeto-invertido-cloncluido/blob/main/img/3.jpeg "estator")
 
 
 ### Confira o projeto no link https://walter-ks.github.io/Projeto-invertido-cloncluido/
